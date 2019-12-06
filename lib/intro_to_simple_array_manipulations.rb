@@ -22,8 +22,8 @@ def shift_with_args(Array)
   return Array.shift(2)
 end
 
-def using_concat
-  return 
+def using_concat(oneArray, twoArray)
+  return oneArray
 end
 
 def using_insert
