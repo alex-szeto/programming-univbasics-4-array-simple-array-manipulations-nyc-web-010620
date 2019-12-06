@@ -14,23 +14,23 @@ def pop_with_args
   return String
 end
 
-def
+def using_shift
   return
 end
 
-def
+def shift_with_args
   return
 end
 
-def
+def using_concat
   return
 end
 
-def
+def using_insert
   return
 end
 
-def
+def using_uniq
   return
 end
 
