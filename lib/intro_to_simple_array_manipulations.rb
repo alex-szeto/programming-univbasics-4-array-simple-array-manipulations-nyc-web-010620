@@ -6,16 +6,16 @@ def using_unshift(Array, String)
   return Array.unshift(String)
 end
 
-def using_pop
-  return
+def using_pop(Array)
+  return Array.pop
 end
 
-def pop_with_args
-  return String
+def pop_with_args(Array)
+  return Array.pop(2)
 end
 
-def using_shift
-  return
+def using_shift(Array)
+  return Array.shift
 end
 
 def shift_with_args
