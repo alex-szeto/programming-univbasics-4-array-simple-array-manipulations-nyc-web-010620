@@ -27,7 +27,7 @@ def using_concat(oneArray, twoArray)
 end
 
 def using_insert(Array, element)
-  return Array.insert()
+  return Array.insert(4, element)
 end
 
 def using_uniq(Array)
@@ -42,7 +42,7 @@ def using_delete(Array, String)
   return Array.delete(String)
 end
 
-def using_delete_at()
+def using_delete_at(Array, Element)
   return
 end
 
