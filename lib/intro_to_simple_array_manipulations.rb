@@ -12,3 +12,14 @@ end
 
 def pop_with_args
   return String
+end
+
+def
+
+def
+
+def
+
+def
+
+def
