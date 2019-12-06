@@ -19,11 +19,11 @@ def using_shift(Array)
 end
 
 def shift_with_args
-  return
+  return Array.shift(2)
 end
 
 def using_concat
-  return
+  return 
 end
 
 def using_insert
