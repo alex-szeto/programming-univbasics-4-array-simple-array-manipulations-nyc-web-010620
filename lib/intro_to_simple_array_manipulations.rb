@@ -34,3 +34,12 @@ def using_uniq
   return
 end
 
+def using_delete
+  return
+end
+
+def using_delete_at
+  return
+end
+
+
