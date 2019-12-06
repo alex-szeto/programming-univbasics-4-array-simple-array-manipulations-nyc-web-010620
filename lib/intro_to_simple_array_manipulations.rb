@@ -26,19 +26,23 @@ def using_concat(oneArray, twoArray)
   return oneArray.concat(twoArray)
 end
 
-def using_insert
-  return
+def using_insert(Array, element)
+  return Array.insert()
 end
 
-def using_uniq
-  return
+def using_uniq(Array)
+  return Array.uniq
 end
 
-def using_delete
-  return
+def using_delete(Array)
+  return Array.flatten
 end
 
-def using_delete_at
+def using_delete(Array, String)
+  return Array.delete(String)
+end
+
+def using_delete_at()
   return
 end
 
